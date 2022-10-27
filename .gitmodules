@@ -1,0 +1,3 @@
+[submodule "lab-calculator"]
+	path = lab-calculator
+	url = https://github.com/accelolabs/lab-calculator
